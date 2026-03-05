@@ -28,9 +28,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhii-navv&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhii-navv&layout=compact&theme=tokyonight" height="170"/>
 
 </p>
 
@@ -39,7 +39,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=abhii-navv&theme=tokyonight"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhii-navv&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
