@@ -56,12 +56,16 @@
 
 <p align="center">
 
-<a href="mailto:YOUREMAIL">
+<a href="mailto:pasumarthyabhinav955@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/YOURUSERNAME">
+<a href="https://github.com/abhii-navv">
 <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="www.linkedin.com/in/pasumarthy-abhinav-8695ba34a">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 </p>
