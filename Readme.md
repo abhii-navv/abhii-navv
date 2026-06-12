@@ -142,7 +142,11 @@ A CLI-based ride-sharing simulation built entirely in Core Java — replicating 
 
 <div align="center">
 
-![snake gif](https://github.com/abhii-navv/abhii-navv/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhii-navv/abhii-navv/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhii-navv/abhii-navv/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/abhii-navv/abhii-navv/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
