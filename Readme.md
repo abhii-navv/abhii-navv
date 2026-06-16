@@ -116,15 +116,6 @@ A CLI-based ride-sharing simulation built entirely in Core Java — replicating 
 
 ---
 
-## ◈ GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abhii-navv&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## ◈ Contribution Activity
 
