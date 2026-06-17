@@ -28,12 +28,15 @@
 
 ---
 
-## ◈ About
+## 🚀 About Me
 
-3rd-year **Computer Science Engineering** student at Amrita Vishwa Vidyapeetham, building full-stack web applications and exploring computer vision. I enjoy writing clean, production-ready code and shipping things that actually work. Open to internships and collaborations.
+I am a Computer Science student with a strong interest in backend development, real-time systems, and building practical solutions through technology. My journey has been shaped by hands-on experiences, from developing projects to applying core concepts in real-world scenarios.
 
----
+I enjoy working on systems that are efficient, scalable, and reliable. I actively focus on strengthening my problem-solving skills and applying data structures, algorithms, and software design principles in my work.
 
+I like combining logic with practical implementation to build meaningful applications, and I am continuously learning and improving as a developer.
+
+## 💻 Skill Sets
 ## ◈ Tech Stack
 
 <div align="center">
