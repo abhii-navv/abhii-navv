@@ -36,8 +36,7 @@ I enjoy working on systems that are efficient, scalable, and reliable. I activel
 
 I like combining logic with practical implementation to build meaningful applications, and I am continuously learning and improving as a developer.
 
-## 💻 Skill Sets
-## ◈ Tech Stack
+## 💻Tech Stack
 
 <div align="center">
 
