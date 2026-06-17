@@ -44,7 +44,7 @@
 
 ---
 
-<!-- 
+
 
 ## ◈ GitHub Analytics
 
@@ -62,10 +62,6 @@
 </div>
 
 ---
->>
-
-
-
 
 ## ◈ Contribution Activity
 
