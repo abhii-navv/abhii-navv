@@ -44,60 +44,7 @@
 
 ---
 
-## ◈ Featured Projects
-
-<details>
-<summary><b>⬡ AI Wildlife Photo Analyzer</b> &nbsp;·&nbsp; Python · Flask · OpenCV · NumPy</summary>
-<br>
-
-An AI-powered web app that analyzes wildlife photos using computer vision and generates data-driven editing suggestions for tools like **Adobe Lightroom** and **Snapseed** — evaluating brightness, blur, and overall image quality in real time.
-
-| | |
-|:---|:---|
-| **Stack** | Python, Flask, OpenCV, NumPy, HTML, CSS, JavaScript |
-| **Deployment** | Render |
-
-[![GitHub](https://img.shields.io/badge/Repository-7C3AED?style=flat-square&logo=github)](https://github.com/abhii-navv/Image-analyzer)
-[![Live](https://img.shields.io/badge/Live%20Demo-10B981?style=flat-square&logo=render&logoColor=white)](https://image-analyzer-2.onrender.com/)
-
-</details>
-
----
-
-<details>
-<summary><b>⬡ Stock Market Trading Web App</b> &nbsp;·&nbsp; PHP · MySQL · JavaScript</summary>
-<br>
-
-A full-stack stock trading platform where users can buy and sell stocks, track their portfolio, and view transaction history — backed by secure PHP session management and a relational MySQL schema.
-
-| | |
-|:---|:---|
-| **Stack** | HTML, CSS, JavaScript, PHP, MySQL |
-| **Deployment** | 42web.io |
-
-[![GitHub](https://img.shields.io/badge/Repository-7C3AED?style=flat-square&logo=github)](https://github.com/HackstreetBoyzz/Stock-Market-Trading-web-Application)
-[![Live](https://img.shields.io/badge/Live%20Demo-10B981?style=flat-square&logo=google-chrome&logoColor=white)](http://novacapital.42web.io/)
-
-</details>
-
----
-
-<details>
-<summary><b>⬡ Uber Ride-Sharing Simulation</b> &nbsp;·&nbsp; Core Java · OOP · CLI</summary>
-<br>
-
-A CLI-based ride-sharing simulation built entirely in Core Java — replicating user registration, driver assignment, fare estimation, and parcel delivery using strict OOP principles and custom route mapping logic.
-
-| | |
-|:---|:---|
-| **Stack** | Core Java, OOP, Data Structures, CLI |
-| **Concepts** | Encapsulation, Abstraction, Inheritance |
-
-[![GitHub](https://img.shields.io/badge/Repository-7C3AED?style=flat-square&logo=github)](https://github.com/abhii-navv/Smart-Ride-Sharing-System)
-
-</details>
-
----
+<!-- 
 
 ## ◈ GitHub Analytics
 
@@ -126,6 +73,8 @@ A CLI-based ride-sharing simulation built entirely in Core Java — replicating 
 </div>
 
 ---
+>>
+
 <!-- 
 ## ◈ Contribution Snake
 
