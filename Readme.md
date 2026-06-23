@@ -76,7 +76,7 @@ I like combining logic with practical implementation to build meaningful applica
 ---
 
 
-<!-- 
+
 ## ◈ Contribution Snake
 
 <div align="center">
@@ -90,4 +90,3 @@ I like combining logic with practical implementation to build meaningful applica
 </div>
 
 ---
->>
